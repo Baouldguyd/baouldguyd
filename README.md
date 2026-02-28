@@ -12,7 +12,7 @@
 - 🚀 I build **AI-powered products** from 0 → production
 - 🎓 Built **Lumi**, a real-time AI learning platform (Reception → Grade 12) with speech-to-speech AI tutoring
 - 🧩 Developed AI training & evaluation tools for LLM workflows at **Awarri**
-- 🔬 Background in **Microbiology** + AI data annotation
+- 🔬 Background in **Human Kinetics** + AI data annotation
 - ⚡ I use **latest AI tools** (GitHub Copilot, Cursor, Antigravity) to accelerate development and ensure quality
 - 🌍 Remote-ready and experienced collaborating across US time zones
 
