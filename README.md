@@ -91,9 +91,4 @@
 
 ![Damilola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baouldguyd&show_icons=true&theme=tokyonight)
 
----
 
-## 🤝 Connect with Me
-
-- LinkedIn: (https://www.linkedin.com/in/dammyceo)
-- Email: damilolamiraclek@gmail.com
