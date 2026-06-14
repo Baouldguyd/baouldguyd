@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ehi Otoide</h1>
+<h1 align="center">Hi 👋, I'm Damilola Kolawole</h1>
 <h3 align="center">Frontend Engineer | Real-Time AI Systems</h3>
 
 <p align="center">
